@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa.png"
+   
     width="400"  
 />
 </p>
@@ -17,8 +17,8 @@ O projeto surge como um desafio proposto durante o bootcamp, visando a criação
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Copilot](https://copilot.microsoft.com/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Dall-E](https://openart.ai/home?utm_source=google&utm_medium=pmax&utm_campaign=Performance_Max_High_End_Computer_Aficionados&utm_source=google&utm_medium=pmax&utm_campaign=21319042947&utm_term=&gad_source=1&gclid=CjwKCAiA34S7BhAtEiwACZzv4SApY0bzHWDPwMSViijHQ-UOS2EAKDaVQQbVk4m6LH6Z1scqD0rqgBoC1XYQAvD_BwE)
+- [Canva](https://www.canva.com)
 
 ## 🧙🏻‍♀️ Prompts 
 
@@ -27,20 +27,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Certificação AI-900, o ebook é do nicho de programação e o subnicho é de azure, o título deve ser épico e curto, e tenha uma temática de senhor dos anéis, me liste 5 variações de títulos       
-| conteúdo | Crie um texto em formato para ebook  que terá o seguinte titulo "Desvendando O Mistério: Rumo À Certificação", o foco do conteúdo é para quem quer fazer a prova Microsoft Certified: Azure AI Fundamentals, adicione suas {REGRAS} |
+|  título  | Crie um título de um ebook sobre o tema de "Testes de Software: Como Garantir Qualidade no Seu Código", o ebook é do nicho de programação e o subnicho é de tester qa, o título deve ser épico e curto, e tenha uma temática de black mirror no título, me liste 5 variações de títulos.    
+| conteúdo | Faça um texto para ebook, com foco em testes, listando os principais tipos de testes e suas importancias. Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga  contextos reais, sempre deixe um título sugestivo por tópico |
 
 
-Copilot：
+Dall-E：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem de um hobbit, rumo a jornada do herói. Mas a temática é conseguir passar na prova AI-900 da Microsoft |
+| título | laptop broken; Cyberpunk theme |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Copilot
+- Imagens geradas via Dall-E
 
 ## 📚 Materiais
 
