@@ -1,4 +1,4 @@
-
+![Capa do ebook](https://github.com/beatrizzfernandes/prompts-recipe-to-create-a-ebook/blob/main/Erro_Fatal.png)
 
 # Projeto Prompts para Criar um EBOOK
 
