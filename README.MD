@@ -1,9 +1,4 @@
-<p align="center">
-<img 
-   
-    width="400"  
-/>
-</p>
+
 
 # Projeto Prompts para Criar um EBOOK
 
