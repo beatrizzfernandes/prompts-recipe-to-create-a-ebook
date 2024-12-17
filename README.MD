@@ -42,6 +42,9 @@ Dall-E：
 - Imagens utilizadas em `assets`
 - Ebook em `output`
 
+## 📁 PDF
+![PDF](https://github.com/beatrizzfernandes/prompts-recipe-to-create-a-ebook/blob/main/Erro_Fatal.pdf)
+
 ## 🛠️ Instruções de execução
 
 Empregue os prompts mencionados utilizando as ferramentas recomendadas para gerar o conteúdo base e utilize um software de edição de documentos, como o PowerPoint, para realizar a diagramação e edição.
